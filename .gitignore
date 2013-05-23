@@ -1,0 +1,7 @@
+# Rubymine project configuration
+.idea
+# Don't check in new rvm version and gemset files
+.ruby-gemset
+.ruby-version
+# Installed gem versions.  Not stored for the same reasons as .rvmrc
+Gemfile.lock
